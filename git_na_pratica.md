@@ -1,1 +1,6 @@
-"Conte£do do arquivo em uma nova branch" 
+<<<<<<< HEAD
+ 
+=======
+"outra versï¿½o do mesmo arquivo, com um novo conteï¿½do, primeira linha" 
+"Conteï¿½do do arquivo em uma nova branch"
+>>>>>>> segunda_branch
