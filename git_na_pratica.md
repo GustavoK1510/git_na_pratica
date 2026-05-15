@@ -1,1 +1,1 @@
-"Atividade pr�tica de git" 
+"Outra versão do mesmo arquivo, com um novo conteúdo, primeira linha." 
